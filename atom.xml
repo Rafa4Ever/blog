@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="https://blog.1kb.life/atom.xml" rel="self"/>
+  
+  <link href="https://blog.1kb.life/"/>
+  <updated>2023-11-11T05:52:34.000Z</updated>
+  <id>https://blog.1kb.life/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>记账起始</title>
+    <link href="https://blog.1kb.life/2023/11/11/%E8%AE%B0%E8%B4%A6%E8%B5%B7%E5%A7%8B/"/>
+    <id>https://blog.1kb.life/2023/11/11/%E8%AE%B0%E8%B4%A6%E8%B5%B7%E5%A7%8B/</id>
+    <published>2023-11-11T05:52:32.000Z</published>
+    <updated>2023-11-11T05:52:34.000Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Nginx使用certbot生成webroot SSL证书</title>
+    <link href="https://blog.1kb.life/2023/11/11/Nginx%E4%BD%BF%E7%94%A8certbot%E7%94%9F%E6%88%90webroot-SSL%E8%AF%81%E4%B9%A6/"/>
+    <id>https://blog.1kb.life/2023/11/11/Nginx%E4%BD%BF%E7%94%A8certbot%E7%94%9F%E6%88%90webroot-SSL%E8%AF%81%E4%B9%A6/</id>
+    <published>2023-11-11T05:42:00.000Z</published>
+    <updated>2023-11-11T05:51:24.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;环境：&lt;br&gt;    centos7.9&lt;br&gt;    nginx 1.22.0&lt;/p&gt;
+&lt;h3 id=&quot;安装certbot&quot;&gt;&lt;a href=&quot;#安装certbot&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="devops" scheme="https://blog.1kb.life/categories/devops/"/>
+    
+    
+    <category term="nginx" scheme="https://blog.1kb.life/tags/nginx/"/>
+    
+    <category term="certbot" scheme="https://blog.1kb.life/tags/certbot/"/>
+    
+    <category term="ssl" scheme="https://blog.1kb.life/tags/ssl/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nginx 配置tcp端口转发</title>
+    <link href="https://blog.1kb.life/2023/11/11/nginx%20%E8%AE%BE%E7%BD%AEtcp%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91/"/>
+    <id>https://blog.1kb.life/2023/11/11/nginx%20%E8%AE%BE%E7%BD%AEtcp%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91/</id>
+    <published>2023-11-11T01:11:03.000Z</published>
+    <updated>2023-11-11T05:40:12.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;环境：&lt;br&gt;    centos7.9&lt;br&gt;    nginx 1.22.0&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick</summary>
+        
+      
+    
+    
+    
+    <category term="devops" scheme="https://blog.1kb.life/categories/devops/"/>
+    
+    
+    <category term="nginx" scheme="https://blog.1kb.life/tags/nginx/"/>
+    
+    <category term="tcp" scheme="https://blog.1kb.life/tags/tcp/"/>
+    
+    <category term="geoip" scheme="https://blog.1kb.life/tags/geoip/"/>
+    
+  </entry>
+  
+</feed>
