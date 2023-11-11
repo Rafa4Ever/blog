@@ -13,8 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://rafa4ever.github.io/
-root: /
+url: http://example.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -140,7 +139,4 @@ prism_plugin:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: 
-    github: 'https://github.com/Rafa4Ever/blog.git'
-  branch: 'gh-pages'
-
+  repo: 'https://github.com/Rafa4Ever/blog.git'
