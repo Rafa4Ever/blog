@@ -14,13 +14,25 @@ categories: devops
 $ yum install certbot-nginx -y
 ```
 
+### 配置well-known 域名验证
+```bash
+server {
+    listen       80;
+    server_name  DomainName;
+
+    location ~ /.well-known {
+        root /usr/share/nginx/html/;
+        allow all;
+    }
+}
+```
 ### 生成证书
 
 ``` bash
 $ certbot certonly --email YOUR@EMAIL.COM -n --agree-tos --webroot -w /usr/share/nginx/html/ -d YOUR DOMAIN HERE
 ```
 
-### 配置nginx
+### 配置nginx ssl
 
 ``` bash
 $ vim /etc/nginx/nginx.conf
